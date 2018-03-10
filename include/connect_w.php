@@ -6,7 +6,7 @@ function connect_1(){
 
 	$servername = "localhost";
 	$username = "writedb1";
-	$password = "5yrUFS8cqhsd";
+	$password = "";
 	$dbname = "gruppe1";
 
 	$conn = new mysqli($servername, $username, $password, $dbname);
